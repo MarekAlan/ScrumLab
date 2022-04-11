@@ -51,7 +51,7 @@ MEALS = (
     (4, "Obiad"),
     (5, "Podwieczorek"),
     (6, "Kolacja"),
-    (7, "Nocne podjadanie")         # ;D
+    (7, "Nocne podjadanie")
 )
 
 
